@@ -1,0 +1,13 @@
+* {
+  background-color: azure;
+}
+#f1 {
+  background-color: rgb(171, 248, 248);
+  /* border: 3px solid rgb(0, 106, 255); */
+  border-radius: 10px;
+  height: 400px;
+  width: 300px;
+  padding: 10px;
+  padding-left: 50px;
+  margin: 150px;
+}
